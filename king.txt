@@ -1,1 +1,4 @@
 hi this is king i want to commit and push to main branch
+
+
+2nd line i have edited with notepad cause i was unable to edit through git bash
